@@ -1,6 +1,6 @@
 # Road Accident Dashboard (Excel)
 
-![Dashboar Demo]('Gif Demo.gif')
+![Dashboar Demo](demo.gif)
 
 ## 📌 Overview
 This Excel dashboard visualizes road accident statistics, including:
